@@ -20,7 +20,7 @@
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/bunnyvps/BunnyVps-Manager/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/bunnyvps/BunnyVps-Manager/main/bunny; chmod 777 bunny;./bunny
 
 ```
 
