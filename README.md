@@ -1,4 +1,4 @@
-## ◇────── BUNNY VPS MANAGER ───────◇
+##      🐰BUNNY VPS MANAGER 🐰
 
 ㅤ
 <p align="left">
@@ -54,7 +54,7 @@ ___Follow Us!___
  
 ___⚠️ Announcement ⚠️___
 
-<p><i>This script is not our own <a href="https://t.me/s/singledevelopers/">@SingleDevelopers</a> creation and we will be working on providing our own script soon.<i></p>
+<p><i>Do not edit these scripts otherwise we are going to close all updates<i></p>
 
  
 ##  ㅤ
