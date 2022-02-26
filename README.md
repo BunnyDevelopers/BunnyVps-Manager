@@ -3,7 +3,7 @@
 ㅤ
 <p align="left">
   <a href="" rel="noopener">
- <img width=550px height=550px src="https://github.com/bunnyvps/BunnyVps-Manager/main/icons/bunnyvps.png?raw=true?raw=true" alt="logo"></a>
+ <img width=550px height=550px src="https://github.com/bunnyvps/BunnyVps-Manager/blob/main/icons/bunnyvps.png?raw=true?raw=true" alt="logo"></a>
 </p>
 
 
