@@ -6,6 +6,12 @@
  <img width=550px height=550px src="https://github.com/bunnyvps/BunnyVps-Manager/blob/main/icons/bunnyvps.png?raw=true?raw=true" alt="logo"></a>
 </p>
 
+# 📌Bunny VPS Manager New Update v1.0.1
+* UPDATE 26/02/2022
+
+# 🌐Language
+
+* ENGLISH
 
 ## ㅤ
 
