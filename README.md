@@ -38,7 +38,7 @@ ___Based on___
 ___Credits___
 
 <p>HACKER X DEVELOPER</p>
-  <P><b><i> 🌹 To MY LOVELY GIRLFRIEND 🌹 </i></b></p>
+<P><b><i> Special Thanks Goes to🌹 My Lovely Girlfriend 🌹 </i></b></p>
 
 ## ㅤ
 
