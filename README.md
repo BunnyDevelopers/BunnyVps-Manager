@@ -9,6 +9,7 @@
 # 📌Bunny VPS Manager New Update v1.0.1
 * UPDATE 26/02/2022
 
+
 # 🌐Language
 
 * ENGLISH
@@ -39,7 +40,19 @@ ___Based on___
 </div>
  </p>
  
- ## ㅤ
+ ##
+ 
+ [![Stars](https://img.shields.io/github/stars/bunnyvps/BunnyVps-Manager?style=flat-square&color=yellow)](https://github.com/bunnyvps/BunnyVps-Manager/stargazers)
+[![Forks](https://img.shields.io/github/forks/bunnyvps/BunnyVps-Manager?style=flat-square&color=orange)](https://github.com/bunnyvps/BunnyVps-Manager/fork)
+[![Size](https://img.shields.io/github/repo-size/bunnyvps/BunnyVps-Manager?style=flat-square&color=green)](https://github.com/bunnyvps/BunnyVps-Manager/)   
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/bunnyvps/BunnyVps-Manager/graphs/commit-activity)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/bunnyvps/BunnyVps-Manager)   
+[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/bunnyvps/BunnyVps-Manager/graphs/contributors)        
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+[![License](https://img.shields.io/badge/License-GPL-blue)](https://github.com/bunnyvps/BunnyVps-Manager/blob/main/LICENSE)
+
+##ㅤ
  
 ___Credits___
 
