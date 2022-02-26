@@ -10,6 +10,7 @@
 * UPDATE 26/02/2022
 
 
+
 # 🌐Language
 
 * ENGLISH
@@ -73,7 +74,7 @@ ___Follow Us!___
  
 ___⚠️ Announcement ⚠️___
 
-<p><i>Do not edit these scripts otherwise we are going to close all updates<i></p>
+<p><i>Do not edit these scripts otherwise we are going to close all incoming updates<i></p>
 
  
 ##  ㅤ
